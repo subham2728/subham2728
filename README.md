@@ -5,7 +5,7 @@
 
 
 ## &#x1f4c8; GitHub Stats
-<table>
+<table align='center'>
   <tr>
     <td>
       <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subham2728&show_icons=true&theme=gotham" alt="subham2728" />
