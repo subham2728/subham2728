@@ -5,7 +5,16 @@
 
 
 ## &#x1f4c8; GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subham2728&show_icons=true&theme=gotham" alt="subham2728" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham2728&theme=dark&show_icons=true" width="400" height="400">
-
+<table>
+  <tr>
+    <td>
+      <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subham2728&show_icons=true&theme=gotham" alt="subham2728" />
+      </a>
+     </td>
+      <td>
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham2728&theme=dark&show_icons=true" width="400" height="400">
+      </a>
+     </td>
+  </tr>
+</table>
+<hr>
