@@ -46,7 +46,7 @@
 </table>
 <table align='center' style:text-align:center>
 
-<th>Random Dev Joke</th>
+<th> ## Random Dev Joke</th>
   <tr>
     <td>
       <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=nightowl" alt="Jokes Card" />
