@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="center" alt="GIF" src="https://github.com/subham2728/subham2728/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!--
 **subham2728/subham2728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,17 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Github Stats**
+## &#x1f4c8; GitHub Stats
 
-<table align='center'>
-  <tr>
-    <td>
-      <a href="https://github.com/subham2728/subham2728"> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=subham2728&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Subham's GitHub Stats" width="400" />
-      </a>
-     </td>
-
-  </tr>
-</table>
-<hr>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subham2728&show_icons=true&theme=gotham" alt="subham2728" />
+<p  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham2728s&theme=dark&show_icons=true">
 
