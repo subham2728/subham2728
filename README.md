@@ -44,7 +44,7 @@
 <hr>
 
 </table>
-<table align='center' style:text-align:center,font-size:20px>
+<table align='center' style:"text-align : center; font-size : 20px ; font-weight : bold;">
 <th>Random Dev Joke</th>
   <tr>
     <td>
