@@ -12,15 +12,12 @@
 <img align="left" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Java" width="50px" src="https://www.svgrepo.com/show/184143/java.svg" style="padding-right:5px;" />
 <img align="left" alt="Git" width="50px" src="https://www.svgrepo.com/show/353778/git.svg"/>
-<img align="left" alt="Github" width="50px" src="https://www.svgrepo.com/show/346974/github.svg"/>
 <img align="left" alt="AWS" width="50px" src="https://www.svgrepo.com/show/353443/aws.svg"/>
 <img align="left" alt="Django" width="50px" src="https://www.svgrepo.com/show/373554/django.svg"/>
 <img align="left" alt="Selenium" width="50px" src="https://www.svgrepo.com/show/354321/selenium.svg" />
-<img align="left" alt="Google Sheets" width="50px" src="https://www.svgrepo.com/show/223056/sheets-sheet.svg"/>
 <img align="left" alt="Heroku" width="50px" src="https://www.svgrepo.com/show/303683/heroku-logo.svg"/>
 <br>
 </p>
