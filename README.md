@@ -7,7 +7,7 @@
 
 # **Languages and Tools**
 
-<img align="left" alt="Python" width="26px" src="https://www.svgrepo.com/show/354238/python.svg" style="padding-right:10px;" />
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img align="left" alt="Python" width="26px" src="https://www.svgrepo.com/show/354238/python.svg" style="padding-right:10px;" /></a>
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -47,7 +47,7 @@
 <table align='center'>
   <tr>
     <td>
-      <<img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&theme=nightowl" alt="Jokes Card" />
+      <img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&theme=nightowl" alt="Jokes Card" />
      </td>
   </tr>
 <hr>
