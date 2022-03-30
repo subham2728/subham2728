@@ -6,15 +6,22 @@
 ### Languages and Tools 
 
 <img align="left" alt="Python" width="26px" src="https://www.svgrepo.com/show/354238/python.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://www.svgrepo.com/show/184143/java.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://www.svgrepo.com/show/353778/git.svg" style="padding-right:10px;" />
+<img align="left" alt="Github" width="26px" src="https://www.svgrepo.com/show/343674/github.svg" style="padding-right:10px;" />
+<img align="left" alt="AWS" width="26px" src="https://www.svgrepo.com/show/353443/aws.svg" style="padding-right:10px;" />
+<img align="left" alt="Django" width="26px" src="https://www.svgrepo.com/show/373554/django.svg" style="padding-right:10px;" />
+<img align="left" alt="Selenium" width="26px" src="https://www.svgrepo.com/show/354321/selenium.svg" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap" width="26px" src="https://www.svgrepo.com/show/353498/bootstrap.svg" style="padding-right:10px;" />
+<img align="left" alt="Google Sheets" width="26px" src="https://www.svgrepo.com/show/132516/google-sheets.svg" style="padding-right:10px;" />
+
+
 </p>
 <br>
 <hr>
