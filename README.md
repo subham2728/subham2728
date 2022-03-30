@@ -28,8 +28,9 @@
 </p>
 <br>
 <hr>
+<br>
 
-## &#x1f4c8; GitHub Stats
+# ** &#x1f4c8; GitHub Stats **
 <table align='center' height="98%">
   <tr>
     <td>
@@ -44,7 +45,7 @@
 <hr>
 
 </table>
-<table align='center' style:"text-align : center; font-size : 20px ; font-weight : bold;">
+<table align='center' style:"text-align : center">
 <th>Random Dev Joke</th>
   <tr>
     <td>
