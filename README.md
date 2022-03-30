@@ -17,6 +17,5 @@
      </td>
   </tr>
 </table>
-<hr>
-[![trophy](https://github-profile-trophy.vercel.app/?username=subham2728&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?subham2728=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
