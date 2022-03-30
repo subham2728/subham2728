@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **Github Stats**
 
-<table>
+<table align='center'>
   <tr>
     <td>
       <a href="https://github.com/subham2728/subham2728"> 
