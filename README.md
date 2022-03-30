@@ -41,8 +41,8 @@
       </a>
      </td>
   </tr>
-<hr>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subham2728" alt="subham2728" /></a> </p>
+<tr>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subham2728" alt="subham2728" /></a> </p></tr>
 </table>
 <table align='center' style:text-align:center>
 
