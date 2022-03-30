@@ -47,7 +47,7 @@
 <table align='center'>
   <tr>
     <td>
-      <img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&theme=nightowl" alt="Jokes Card" />
+      <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=nightowl" alt="Jokes Card" />
      </td>
   </tr>
 <hr>
