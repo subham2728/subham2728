@@ -30,7 +30,7 @@
 <hr>
 <br>
 
-# ** &#x1f4c8; GitHub Stats **
+# &#x1f4c8; **GitHub Stats**
 <table align='center' height="98%">
   <tr>
     <td>
