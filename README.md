@@ -3,7 +3,6 @@
 <hr>
 
 ### Languages and Tools 
-<img align='left' alt="Python" width="26px" style="padding-right:10px;>![python](https://user-images.githubusercontent.com/72430628/160751830-ad9c7a65-2545-4fcf-b32b-7ed0636ba458.png)
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
