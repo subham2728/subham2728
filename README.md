@@ -44,11 +44,11 @@
 <hr>
 
 </table>
-<table align='center' style:text-align:center>
+<table align='center' style:text-align:center,font-size:20px>
 <th>Random Dev Joke</th>
   <tr>
     <td>
-      <img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&theme=nightowl" alt="Jokes Card" />
+      <p align='center'><img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&theme=nightowl" alt="Jokes Card" /></p>
      </td>
   </tr>
 <hr>
