@@ -1,9 +1,11 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### I am Subham <img src="https://i.gifer.com/Ckc7.gif" width="25px">
 <p align="center"> <img alt="GIF" src="https://user-images.githubusercontent.com/72430628/160745933-e9956d51-c2bb-4a31-ba00-b0e85a4724c7.gif" width="500" height="320" />
 <hr>
 
 ### Languages and Tools 
 
+<img align="left" alt="Python" width="26px" src="https://www.svgrepo.com/show/354238/python.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
