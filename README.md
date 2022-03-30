@@ -17,7 +17,11 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://www.svgrepo.com/show/353778/git.svg" style="padding-right:10px;" />
 <img align="left" alt="Github" width="26px" src="https://www.svgrepo.com/show/346974/github.svg" style="padding-right:10px;" />
+<<<<<<< HEAD
 <img align="left" alt="AWS" width="26px" src="https://www.svgrepo.com/show/353443/aws.svg" style="padding-right:10px;" />
+=======
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer" <img align="left" alt="AWS" width="26px" src="https://www.svgrepo.com/show/353443/aws.svg" style="padding-right:10px;" /></a>
+>>>>>>> 58b84f229672230fef4238b3bf1f109ac762785b
 <img align="left" alt="Django" width="26px" src="https://www.svgrepo.com/show/373554/django.svg" style="padding-right:10px;" />
 <img align="left" alt="Selenium" width="26px" src="https://www.svgrepo.com/show/354321/selenium.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://www.svgrepo.com/show/353498/bootstrap.svg" style="padding-right:10px;" />
@@ -41,6 +45,7 @@
       </a>
      </td>
   </tr>
+<<<<<<< HEAD
 <hr>
 
 </table>
@@ -48,6 +53,16 @@
   <tr>
     <td>
       <<img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&theme=nightowl" alt="Jokes Card" />
+=======
+<tr>
+</table>
+<table align='center' style:text-align:center>
+
+<th>Random Dev Joke</th>
+  <tr>
+    <td>
+      <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=nightowl" alt="Jokes Card" />
+>>>>>>> 58b84f229672230fef4238b3bf1f109ac762785b
      </td>
   </tr>
 <hr>
