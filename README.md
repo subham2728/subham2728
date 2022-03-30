@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Github Stats**
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/subham2728/subham2728"> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=subham2728&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hamdan's GitHub Stats" width="400" />
+      </a>
+     </td>
+      <td>
+      <a href="https://github.com/subham2728/subham2728.github.io">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=subham2728&repo=subham2728.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+      </a>
+     </td>
+  </tr>
+</table>
+<hr>
+
