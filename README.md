@@ -12,7 +12,7 @@
       </a>
      </td>
       <td>
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham2728&theme=dark&show_icons=true">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham2728&theme=gotham&show_icons=true">
       </a>
      </td>
   </tr>
