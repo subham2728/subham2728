@@ -4,8 +4,10 @@
 <p align="center"> <img alt="GIF" src="https://user-images.githubusercontent.com/72430628/160745933-e9956d51-c2bb-4a31-ba00-b0e85a4724c7.gif" width="500" height="350/">
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  width="230"/>
 </p>
- 
+<br><br>
+
 # **Languages and Tools I Use**
+<br><br>
 <a href="https://www.python.org" rel="noreferrer">
  <img align="left" alt="Python" width="50px" src="https://www.svgrepo.com/show/354238/python.svg">
 </a>
@@ -39,9 +41,10 @@
 <a href="https://www.heroku.com/" rel="noreferrer">
  <img align="left" alt="Heroku" width="50px" src="https://www.svgrepo.com/show/303683/heroku-logo.svg"/>
 </a>
-<br>
-<br>
+
+<br><br><br><br>
 <hr>
+
 
 # &#x1f4c8; **GitHub Stats**
 <table align='center' height="98%">
