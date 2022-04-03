@@ -7,7 +7,7 @@
 <br><br>
 
 # **Languages and Tools I Use**
-<br><br>
+<br><br><br><br>
 <a href="https://www.python.org" rel="noreferrer">
  <img align="left" alt="Python" width="50px" src="https://www.svgrepo.com/show/354238/python.svg">
 </a>
