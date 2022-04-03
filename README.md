@@ -21,30 +21,40 @@
  <img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </a>
 <a href="https://en.wikipedia.org/wiki/JavaScript#:~:text=JavaScript%20is%20a%20high%2Dlevel,functional%2C%20and%20imperative%20programming%20styles." rel="noreferrer">
- <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+ <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </a>
 <a href="https://www.java.com/en/" rel="noreferrer">
- <img align="left" alt="Java" width="50px" src="https://www.svgrepo.com/show/184143/java.svg" style="padding-right:5px;" />
+ <img align="left" alt="Java" width="50px" src="https://www.svgrepo.com/show/184143/java.svg" style="padding-right:5px;">
 </a>
 <a href="https://git-scm.com/" rel="noreferrer">
- <img align="left" alt="Git" width="50px" src="https://www.svgrepo.com/show/353778/git.svg"/>
+ <img align="left" alt="Git" width="50px" src="https://www.svgrepo.com/show/353778/git.svg">
+</a>
+<a href="https://github.com" rel="noreferrer">
+ <img  align='left' alt="Github" width="50px" src="https://www.svgrepo.com/show/343674/github.svg">
 </a>
 <a href="https://aws.amazon.com/" rel="noreferrer">
- <img align="left" alt="AWS" width="50px" src="https://www.svgrepo.com/show/353443/aws.svg"/>
+ <img align="left" alt="AWS" width="50px" src="https://www.svgrepo.com/show/353443/aws.svg">
 </a>
 <a href="https://www.djangoproject.com/" rel="noreferrer">
- <img align="left" alt="Django" width="50px" src="https://www.svgrepo.com/show/373554/django.svg"/>
-</a>
-<a href="https://www.selenium.dev/" rel="noreferrer">
- <img align="left" alt="Selenium" width="50px" src="https://www.svgrepo.com/show/354321/selenium.svg" />
+ <img align="left" alt="Django" width="50px" src="https://www.svgrepo.com/show/373554/django.svg">
 </a>
 <a href="https://www.heroku.com/" rel="noreferrer">
- <img align="left" alt="Heroku" width="50px" src="https://www.svgrepo.com/show/303683/heroku-logo.svg"/>
+ <img align="left" alt="Heroku" width="50px" src="https://www.svgrepo.com/show/303683/heroku-logo.svg"><br><br><br>
 </a>
-
+<a href="https://www.selenium.dev/" rel="noreferrer">
+ <img align="left" alt="Selenium" width="50px" src="https://www.svgrepo.com/show/354321/selenium.svg">
+</a>
+<a href="https://sheets.google.com/" rel="noreferrer">
+ <img align="left" alt="Google Sheets" width="50px" src="https://www.svgrepo.com/show/223056/sheets-sheet.svg">
+</a>
+<a href="https://getbootstrap.com/" rel="noreferrer">
+ <img align="left" alt="Bootstrap" width="50px" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
+</a>
+<a href="https://code.visualstudio.com/" rel="noreferrer">
+ <img align="left" alt="VS-Code" width="50px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg">
+</a>
 <br><br><br><br>
 <hr>
-
 
 # &#x1f4c8; **GitHub Stats**
 <table align='center' height="98%">
