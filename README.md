@@ -51,7 +51,7 @@
  <img align="left" alt="Bootstrap" width="50px" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
 </a>
 <a href="https://code.visualstudio.com/" rel="noreferrer">
- <img align="left" alt="VS-Code" width="50px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg">
+ <img align="left" alt="VS-Code" width="50px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg"><br><br><br>
 </a>
 <br><br><br><br>
 <hr>
