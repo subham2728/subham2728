@@ -70,7 +70,7 @@
        </a>
     </td>
      <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham2728&theme=gotham&show_icons=true">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham2728&theme=gotham&show_icons=true&hide=procfile">
       </a>
      </td>
   </tr>
