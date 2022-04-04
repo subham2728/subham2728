@@ -50,8 +50,14 @@
 <a href="https://getbootstrap.com/" rel="noreferrer">
  <img align="left" alt="Bootstrap" width="50px" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
 </a>
+<a href="https://filmora.wondershare.com/" rel="noreferrer">
+ <img align="left" alt="Wondershare Filmora" width="50px" src="https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-square.svg">
+</a>
 <a href="https://code.visualstudio.com/" rel="noreferrer">
- <img align="left" alt="VS-Code" width="50px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg"><br><br><br>
+ <img align="left" alt="VS-Code" width="50px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg">
+</a>
+<a href="https://colab.research.google.com/" rel="noreferrer">
+ <img align="left" alt="Google Colab" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png?20210821072942"><br><br><br>
 </a>
 <br><br><br><br>
 <hr>
