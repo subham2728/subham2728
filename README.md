@@ -1,4 +1,5 @@
-# **Hey There** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# **Hey There**
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> -->
 # **I am Subham** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 <br>
 <p align="center"> <img alt="GIF" src="https://user-images.githubusercontent.com/72430628/160745933-e9956d51-c2bb-4a31-ba00-b0e85a4724c7.gif" width="500" height="350/">
@@ -77,7 +78,8 @@
 </table>
 <hr>
 
-# **Random Dev Joke** <img src="https://user-images.githubusercontent.com/72430628/160804711-e506b230-1b6b-4dd5-a13c-09c56a40bc2e.gif" width="30px"/>
+# **Random Dev Joke**
+<!-- <img src="https://user-images.githubusercontent.com/72430628/160804711-e506b230-1b6b-4dd5-a13c-09c56a40bc2e.gif" width="30px"/> -->
 <table align='center'>
   <tr>
     <td>
