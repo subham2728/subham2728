@@ -53,6 +53,9 @@
    <a href="https://www.docker.com/" rel="noreferrer">
     <img align="left" alt="Bootstrap" width="50px" src="https://www.svgrepo.com/show/331370/docker.svg">
    </a>
+   <a href="https://kubernetes.io/" rel="noreferrer">
+    <img align="left" alt="Bootstrap" width="50px" src="https://user-images.githubusercontent.com/72430628/194759453-2e825290-793c-4e68-8f0d-4adb672d4205.png">
+   </a>
    <a href="https://filmora.wondershare.com/" rel="noreferrer">
     <img align="left" alt="Wondershare Filmora" width="50px" src="https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-square.svg">
    </a>
