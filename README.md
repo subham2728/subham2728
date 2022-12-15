@@ -17,16 +17,7 @@
    <a href="https://www.mysql.com/" rel="noreferrer">
     <img align="left" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
    </a>
-   <a href="https://en.wikipedia.org/wiki/HTML5" rel="noreferrer">
-    <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-   </a>
-   <a href="https://en.wikipedia.org/wiki/CSS" rel="noreferrer">
-    <img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-   </a>
-   <a href="https://en.wikipedia.org/wiki/JavaScript#:~:text=JavaScript%20is%20a%20high%2Dlevel,functional%2C%20and%20imperative%20programming%20styles." rel="noreferrer">
-    <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-   </a>
-   <a href="https://www.java.com/en/" rel="noreferrer">
+    <a href="https://www.java.com/en/" rel="noreferrer">
     <img align="left" alt="Java" width="50px" src="https://www.svgrepo.com/show/184143/java.svg" style="padding-right:5px;">
    </a>
    <a href="https://git-scm.com/" rel="noreferrer">
@@ -35,27 +26,40 @@
    <a href="https://github.com" rel="noreferrer">
     <img  align='left' alt="Github" width="50px" src="https://www.svgrepo.com/show/343674/github.svg">
    </a>
-   <a href="https://aws.amazon.com/" rel="noreferrer">
-    <img align="left" alt="AWS" width="50px" src="https://www.svgrepo.com/show/353443/aws.svg">
+   <a href="https://cloud.google.com" rel="noreferrer">
+    <img align="left" alt="GCP" width="50px" src="https://user-images.githubusercontent.com/72430628/207766214-d41d5694-e1d4-49e2-a98e-6372663e52de.svg">
    </a>
-   <a href="https://www.djangoproject.com/" rel="noreferrer">
-    <img align="left" alt="Django" width="50px" src="https://www.svgrepo.com/show/373554/django.svg">
+   <a href="https://www.docker.com/" rel="noreferrer">
+    <img align="left" alt="Docker" width="50px" src="https://www.svgrepo.com/show/331370/docker.svg">
    </a>
-   <a href="https://www.heroku.com/" rel="noreferrer">
-    <img align="left" alt="Heroku" width="50px" src="https://www.svgrepo.com/show/303683/heroku-logo.svg">
+   <a href="https://www.jenkins.io/" rel="noreferrer">
+    <img align="left" alt="Jenkins" width="50px" src="https://user-images.githubusercontent.com/72430628/194759453-2e825290-793c-4e68-8f0d-4adb672d4205.png">
+   </a>
+   <a href="https://kubernetes.io/" rel="noreferrer">
+    <img align="left" alt="Kubernetes" width="50px" src="https://www.svgrepo.com/show/353929/jenkins.svg">
    </a>
    <a href="https://www.selenium.dev/" rel="noreferrer">
     <img align="left" alt="Selenium" width="50px" src="https://www.svgrepo.com/show/354321/selenium.svg">
    </a>
-   <a href="https://sheets.google.com/" rel="noreferrer">
+   <a href="https://en.wikipedia.org/wiki/HTML5" rel="noreferrer">
+    <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+   </a>
+   <a href="https://en.wikipedia.org/wiki/CSS" rel="noreferrer">
+    <img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+   </a>
+    <a href="https://www.djangoproject.com/" rel="noreferrer">
+    <img align="left" alt="Django" width="50px" src="https://www.svgrepo.com/show/373554/django.svg">
+   </a>
+      <a href="https://sheets.google.com/" rel="noreferrer">
     <img align="left" alt="Google Sheets" width="50px" src="https://www.svgrepo.com/show/223056/sheets-sheet.svg">
    </a>
-   <a href="https://www.docker.com/" rel="noreferrer">
-    <img align="left" alt="Bootstrap" width="50px" src="https://www.svgrepo.com/show/331370/docker.svg">
+   <a href="https://en.wikipedia.org/wiki/JavaScript#:~:text=JavaScript%20is%20a%20high%2Dlevel,functional%2C%20and%20imperative%20programming%20styles." rel="noreferrer">
+    <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    </a>
-   <a href="https://kubernetes.io/" rel="noreferrer">
-    <img align="left" alt="Bootstrap" width="50px" src="https://user-images.githubusercontent.com/72430628/194759453-2e825290-793c-4e68-8f0d-4adb672d4205.png">
+   <a href="https://www.heroku.com/" rel="noreferrer">
+    <img align="left" alt="Heroku" width="50px" src="https://www.svgrepo.com/show/303683/heroku-logo.svg">
    </a>
+   
    <a href="https://filmora.wondershare.com/" rel="noreferrer">
     <img align="left" alt="Wondershare Filmora" width="50px" src="https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-square.svg">
    </a>
